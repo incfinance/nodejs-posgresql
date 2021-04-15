@@ -13,7 +13,7 @@ router.get('/', async function(req, res, next) {
 });
 
 /* POST quotes */
-router.post('/', async function(req, res, next) {
+router.post('/public/', async function(req, res, next) {
   try {
     res.json(await quotes.create(req.body));
   } catch (err) {
