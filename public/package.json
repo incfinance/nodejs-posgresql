@@ -1,5 +1,5 @@
 {
-  "name": "https://reg-nine.vercel.app/",
+  "name": "reg-nine.vercel.app",
   "version": "1.0.0",
   "description": "Boilerplate for a Static website using EJS and SASS",
   "main": "index.js",
