@@ -6,11 +6,11 @@ const {resolve} = require('path')
 module.exports.PP = ''
 module.exports.DEV_PATH = __dirname
 module.exports.SITE_TITLE = 'YieldFarming'
-module.exports.SITE_NAME = 'yieldfarming.info'
+module.exports.SITE_NAME = 'https://reg-nine.vercel.app/'
 module.exports.DESCRIPTION = 'Boilerplate for a Static website using EJS and SASS'
-module.exports.SITE_URL = 'https://yieldfarming.info'
+module.exports.SITE_URL = 'https://reg-nine.vercel.app/'
 module.exports.DEVELOPER_NAME = 'Jongseung Lim'
-module.exports.DEVELOPER_URL = 'https://yieldfarming.info'
+module.exports.DEVELOPER_URL = 'https://reg-nine.vercel.app/'
 // module.exports.GOOGLE_ANALYTICS_ID = ''
 
 module.exports.Dir = {
