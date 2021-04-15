@@ -1,5 +1,5 @@
 {
-  "name": "yieldfarming.info",
+  "name": "https://reg-nine.vercel.app/",
   "version": "1.0.0",
   "description": "Boilerplate for a Static website using EJS and SASS",
   "main": "index.js",
@@ -86,5 +86,5 @@
   "bugs": {
     "url": "https://github.com/yieldfarming/yieldfarming/issues"
   },
-  "homepage": "https://yieldfarming.info"
+  "homepage": "https://reg-nine.vercel.app/"
 }
